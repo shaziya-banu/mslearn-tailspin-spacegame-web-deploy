@@ -14,9 +14,10 @@ section {
   padding: 6rem 0;
   border-bottom: 3px solid black; }
 
+  
 .intro {
   height: 350px;
-  background-color: #666;
+  background-color: blue;
   background-image: url("/images/space-background.svg");
   background-size: 1440px;
   background-position: center top;
